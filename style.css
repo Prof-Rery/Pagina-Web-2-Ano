@@ -2,8 +2,8 @@
 
 :root {
     --cor-principal: #0f00ff;
-    --cor-secundaria: #090099;
-    --cor-destaque: #050065;
+    --cor-secundaria: black;
+    --cor-destaque: #100f13;
 }
 
 body {
